@@ -1,0 +1,5 @@
+build/
+*.sublime*
+todo
+*.so
+*.py
